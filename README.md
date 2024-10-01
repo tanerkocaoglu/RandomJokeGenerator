@@ -15,7 +15,8 @@ You can check out the live demo of the project [here](https://tanerkocaoglu.gith
 ## Usage
 When the page loads, a random joke is fetched and displayed automatically.
 To fetch a new joke, simply click on the "Get Another Joke" button.
-Technologies Used
+
+## Technologies Used
 - HTML5
 - CSS3
 - JavaScript (ES6+)
